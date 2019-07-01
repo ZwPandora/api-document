@@ -1,0 +1,33 @@
+html,body { 
+    margin:0; 
+    height:100%; 
+    width: 100%;
+}
+#header {
+    background-color:black;
+    height: 5%;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height: 95%;
+    width: 10%;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width: 90%;
+    height: 95%;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
